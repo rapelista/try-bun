@@ -1,5 +1,5 @@
 logLevel = "debug"
 
 [test]
-root = "./10-nodejs-compatibility"
+root = "./11-web-api"
 coverage = true
