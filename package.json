@@ -2,6 +2,9 @@
   "name": "bun",
   "module": "index.js",
   "type": "module",
+  "workspaces": [
+    "08-workspace/packages/*"
+  ],
   "devDependencies": {
     "@types/bun": "latest",
     "@types/react": "^18.3.1"
