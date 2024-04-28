@@ -1,0 +1,5 @@
+logLevel = "debug"
+
+[test]
+root = "./09-bunfig"
+coverage = true
